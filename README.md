@@ -168,7 +168,8 @@ Contributions and feature requests are appreciated. If you encounter any issues 
 
 - Mask port forwarded URL using our tool Facad1ng
 - PHP code to host a website without Python
+- Iframe can be warned ..make a phishing template or bypass the iframe warning.
+
 - <img width="894" height="918" alt="1000012073" src="https://github.com/user-attachments/assets/0fb678f8-b279-4717-83ab-d3a0abefe169" />
 <img width="870" height="552" alt="1000012072" src="https://github.com/user-attachments/assets/3bfc0db2-ec03-451b-8ed4-ee198ba22b8a" />
 <img width="866" height="1032" alt="1000012071" src="https://github.com/user-attachments/assets/91fab188-8572-4311-9d61-7bc44864b083" />
-Iframe can be warned ..make a phishing template or bypass the iframe warning.
