@@ -29,17 +29,20 @@ The tool hosts a fake website which uses an iframe to display a legit website an
 - Access to and upload webcam images
 - Links to Google Maps and Google Earth based on location
 - Error handling for denied location permission
-- User feedback and error messages
+- User feedback and error messages.
 
-## On the link click
+- ## On the link click
 
-```diff
-+ It will automatically fetch IP address and device information.
-! If location permission is allowed, it will fetch exact GPS location.
-! If camera permission is allowed, it will capture target pictures.
-- It will not work on laptops/desktops without a webcam or GPS module properly configured.
-# Browsers that block JavaScript won't execute the script.
-# If the target is mocking location/IP or using VPN/Proxy, data may differ.
+> + It will automatically fetch IP address and device information.
+> ! If location permission is allowed, it will fetch exact GPS location.
+> ! If camera permission is allowed, it will capture target pictures.
 
-- Some browsers auto block location and camera permission prompts.
-+ Location accuracy will be high if GPS is enabled on mobile devices.
+## Limitations
+
+> - It will not work on laptops/desktops without a webcam or GPS module properly configured.
+> # Browsers that block JavaScript won't execute the script.
+> # If the target is mocking location/IP or using VPN/Proxy, data may differ.
+> 
+> - Some browsers auto block location and camera permission prompts.
+> + Location accuracy will be high if GPS is enabled on mobile devices.
+
