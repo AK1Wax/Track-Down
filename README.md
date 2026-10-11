@@ -37,3 +37,37 @@ The tool hosts a fake website which uses an iframe to display a legit website an
 + It will automatically fetch IP address and device information.
 ! If location permission is allowed, it will fetch exact GPS location.
 ! If camera permission is allowed, it will capture target pictures.
+## Limitation
+
+- It will not work on laptop
+# browsers that block javascript
+# or if the target is mocking
+# or if a target is using VPN
+
+- Some browsers auto block location
++ Location accuracy will be high
+
+---
+
+## IP location VS. GPS location
+
+- Geographic location based on IP
+# Does not provide the location accurately
+# Instead, it provides the approximate location
+
++ GPS fetch almost exact location
+@@ Once location permission is granted
+# Accurate location information is gathered
+# (it's almost the exact location)
+
+---
+
+### OS compatibility :
+
+---
+
+## Installation
+
+```bash
+git clone [https://github.com/](https://github.com/)
+
