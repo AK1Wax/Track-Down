@@ -4,7 +4,8 @@ Track the GPS location of the user's smartphone or PC and capture a picture of t
 The tool hosts a fake website which uses an iframe to display a legit website and, if the target allows it, it will fetch the Gps location (latitude and longitude) of the target, capture multiple pictures of the target along with IP Address and Device Information. 
 
 
-![](https://img.shields.io/badge/Important-Purple-8A2BE2)
+![](https://img.shields.io/badge/Important-8A2BE2)
+
 
 
 This tool is a Proof of Concept and is for Educational Purposes Only.
