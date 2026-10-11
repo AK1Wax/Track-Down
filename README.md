@@ -38,8 +38,6 @@ The tool hosts a fake website which uses an iframe to display a legit website an
 ! If location permission is allowed, it will fetch exact GPS location.
 ! If camera permission is allowed, it will capture target pictures.
 
-Limitations
-
 - It will not work on laptops/desktops without a webcam or GPS module properly configured.
 # Browsers that block JavaScript won't execute the script.
 # If the target is mocking location/IP or using VPN/Proxy, data may differ.
